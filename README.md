@@ -25,3 +25,43 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
 ---
 
 ## 📁 Project Structure
+├── public/ # Static assets
+├── src/ # React components, pages, and logic
+├── package.json # Project metadata & dependencies
+├── package-lock.json
+├── vite.config.ts # Vite configuration
+├── tailwind.config.ts # Tailwind CSS config
+├── tsconfig.json # TypeScript configuration
+├── README.md # Project documentation
+
+---
+
+## 📦 Installation & Usage
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Deepika6689/my-stats-dashboard1.git
+```
+2.Navigate into the project folder:
+```
+cd my-stats-dashboard1
+```
+3.Install dependencies:
+```
+npm install
+```
+4.Run the development server:
+```
+npm run dev
+```
+5.Open your browser and visit:
+```
+http://localhost:8080
+```
+🙋‍♀️ Author
+
+Made with ❤️ by Deepika
+Connect with me: GitHub
+
+
+
