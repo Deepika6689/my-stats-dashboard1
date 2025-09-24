@@ -5,8 +5,9 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
 ---
 
 ## 🚀 Live Demo
-Check out the live version of the project here:  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://my-stats-dashboard1.netlify.app)
+
+[![Visit Live Demo](https://img.shields.io/badge/Live-Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=netlify&logoColor=white)](https://my-stats-dashboard1.netlify.app)
+
 
 ---
 
