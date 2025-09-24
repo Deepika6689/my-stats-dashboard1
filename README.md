@@ -11,31 +11,15 @@ Check out the live version of the project here:
 ---
 
 ## 🛠 Tech Stack & Tools
-- **Frontend:** React, TypeScript, Vite  
-- **UI Components:** shadcn-ui, Tailwind CSS  
-- **State Management:** React Hooks  
-- **Version Control:** Git & GitHub  
-- **Deployment:** Netlify  
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn-ui](https://img.shields.io/badge/-shadcn_ui-8B5CF6?style=for-the-badge)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📁 Project Structure
-├── public/ # Static assets
-├── src/ # React components, pages, and logic
-├── package.json # Project metadata & dependencies
-├── package-lock.json
-├── vite.config.ts # Vite configuration
-├── tailwind.config.ts # Tailwind CSS config
-├── tsconfig.json # TypeScript configuration
-├── README.md # Project documentation
-
----
-
-## 📦 Installation & Usage
-
-1. Clone the repo:
-```bash
-```git clone https://github.com/Deepika6689/my-stats-dashboard1.git
-cd my-stats-dashboard1```
-
-
