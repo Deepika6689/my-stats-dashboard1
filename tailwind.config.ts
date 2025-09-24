@@ -47,6 +47,14 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // GitHub-inspired colors
+        github: {
+          green: "hsl(var(--github-green))",
+          blue: "hsl(var(--github-blue))",
+          orange: "hsl(var(--github-orange))",
+          purple: "hsl(var(--github-purple))",
+          red: "hsl(var(--github-red))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
