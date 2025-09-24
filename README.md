@@ -1,6 +1,7 @@
-# 📊 GitHub Stats Dashboard
+# 📊 GitHub Analyzers
 
 A modern dashboard to visualize GitHub stats, repositories, and contributions in a sleek, interactive interface.
+
 
 ---
 
@@ -39,7 +40,7 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
 
 ## 📦 Installation & Usage
 
-1. Clone the repository:
+1.Clone the repository:
 ```bash
 git clone https://github.com/Deepika6689/my-stats-dashboard1.git
 ```
