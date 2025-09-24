@@ -25,6 +25,7 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
 ---
 
 ## 📁 Project Structure
+```
 ├── public/ # Static assets
 ├── src/ # React components, pages, and logic
 ├── package.json # Project metadata & dependencies
@@ -33,7 +34,7 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
 ├── tailwind.config.ts # Tailwind CSS config
 ├── tsconfig.json # TypeScript configuration
 ├── README.md # Project documentation
-
+```
 ---
 
 ## 📦 Installation & Usage
