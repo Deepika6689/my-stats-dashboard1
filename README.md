@@ -64,7 +64,7 @@ http://localhost:8080
 
 Made with ❤️ by Deepika
 
-Connect with me: GitHub
+Feel free to connect or contribute!
 
 
 
